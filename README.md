@@ -14,7 +14,7 @@ Dataset est le site Kaggle: training.1600000.processed.noemoticon.csv
 
 # LSTM
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fanthommm/MiniProjet_TwitterSentimentAnalysis/blob/main/miniprojet_lstm_deep_learning.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fanthommm/MiniProjet_TwitterSentimentAnalysis/blob/main/Sentiments_Analysis_with_LSTM_Model.ipynb#)
 
 ## Overview
 1) *Import et load dataset*
